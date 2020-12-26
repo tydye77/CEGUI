@@ -9,3 +9,7 @@ WIP - Not Yet Functional
 
 https://github.com/prestonelam2003/CobaltEssentials
 https://beammp.com/
+
+
+Licensed under the GNU GPLv3 License
+Copyright (C) 2020 - 2021, Tyler Klassen - All Rights Reserved
