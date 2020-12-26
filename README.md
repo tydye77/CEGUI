@@ -1,5 +1,5 @@
 # CEGUI
-(SE-GOOEY)
+(SEH-GOOEY)
 
 CobaltEssentials GUI
 
